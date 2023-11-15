@@ -147,7 +147,7 @@ $('document').ready(function(){
 		// $(this).fadeOut('slow').delay(3000).promise().done(function(){
 		// 	$('#dj_time').fadeIn('slow');
 		// });
-		$(this).fadeOut('slow').delay(3000).promise().done(function(){
+		$(this).fadeOut('slow').delay(1000).promise().done(function(){
 			$('#story').fadeIn('slow');
 		});
 	});
